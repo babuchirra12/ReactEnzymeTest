@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- website link    // https://enzymejs.github.io/enzyme/ -->
+<!-- npm i --save-dev enzyme enzyme-adapter-react-16 -->
+<!-- npm config set legacy-peer-deps true -->
+<!-- npm install --save --legacy-peer-deps -->
+
+<!-- # when any package is not installing and giving errors in npm
+npm install --save --legacy-peer-deps
+ -->
